@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application HiRtB</Name>
+    <Assembly>HiRtB.dll</Assembly>
+    <FullClassName>HiRtB.App</FullClassName>
+    <ClientId>a872e04b-431e-469f-b5d4-00c7fa2ccec7</ClientId>
+    <VendorId>LM</VendorId>
+    <VendorDescription>Height in relation to boundary</VendorDescription>
+  </AddIn>
+</RevitAddIns>
